@@ -6,7 +6,7 @@ import tk.vikingcorp.occultMod.items.OccultModItem;
 
 public class ModItems
 {
-	public static Item occultIngot = new OccultModItem().setUnlocalizedName("occultIngot").setTextureName("occultmod:occultIngot");
+	public static Item occultIngot = new OccultModItem().setUnlocalizedName("occultIngot");
 	
 	public static void init()
 	{

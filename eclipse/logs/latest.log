@@ -1,0 +1,27 @@
+[21:26:02] [main/INFO]: Setting user: Player791
+[21:26:03] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:26:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[21:26:11] [Sound Library Loader/INFO]: Sound engine started
+[21:26:13] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:26:13] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[21:26:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[21:26:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:26:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:26:15] [Sound Library Loader/INFO]: Sound engine started
+[21:26:19] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:26:19] [Server thread/INFO]: Generating keypair
+[21:26:19] [Server thread/INFO]: Preparing start region for level 0
+[21:26:20] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:26:21] [Server thread/INFO]: Player791[local:E:42206858] logged in with entity id 407 at (-49.04554432347159, 63.0, 179.7066915172891)
+[21:26:21] [Server thread/INFO]: Player791 joined the game
+[21:26:24] [Server thread/INFO]: Player791 has just earned the achievement [Taking Inventory]
+[21:26:24] [Client thread/INFO]: [CHAT] Player791 has just earned the achievement [Taking Inventory]
+[21:26:38] [Client thread/INFO]: Stopping!
+[21:26:38] [Server thread/INFO]: Stopping server
+[21:26:38] [Server thread/INFO]: Saving players
+[21:26:38] [Server thread/INFO]: Saving worlds
+[21:26:38] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:26:38] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:26:38] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:26:38] [Client Shutdown Thread/INFO]: Stopping server
+[21:26:38] [Client Shutdown Thread/INFO]: Saving players

@@ -14,7 +14,8 @@ public class OccultMod
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event)
 	{
-		
+		ModItems.init();
+		ModBlocks.init();
 	}
 	
 	//INIT

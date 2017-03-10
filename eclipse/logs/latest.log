@@ -1,39 +1,33 @@
-[21:16:55] [main/INFO]: Setting user: Player174
-[21:16:56] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:17:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
-[21:17:05] [Sound Library Loader/INFO]: Sound engine started
-[21:17:05] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[21:17:05] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[21:17:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
-[21:17:06] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:17:06] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:17:07] [Sound Library Loader/INFO]: Sound engine started
-[21:17:32] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[21:17:32] [Server thread/INFO]: Generating keypair
-[21:17:32] [Server thread/INFO]: Preparing start region for level 0
-[21:17:33] [Server thread/INFO]: Changing view distance to 12, from 10
-[21:17:33] [Server thread/INFO]: Player174[local:E:0099bb4a] logged in with entity id 186 at (-44.3123371433066, 63.0, 181.4394247328218)
-[21:17:33] [Server thread/INFO]: Player174 joined the game
-[21:17:39] [Server thread/INFO]: Player174 has just earned the achievement [Taking Inventory]
-[21:17:39] [Client thread/INFO]: [CHAT] Player174 has just earned the achievement [Taking Inventory]
-[21:17:55] [Server thread/INFO]: [Player174: Set own game mode to Survival Mode]
-[21:17:55] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[21:21:01] [Server thread/INFO]: Saving and pausing game...
-[21:21:01] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[21:21:01] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[21:21:01] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[21:21:03] [Server thread/INFO]: [Player174: Set the time to 0]
-[21:21:03] [Client thread/INFO]: [CHAT] Set the time to 0
-[21:21:08] [Server thread/INFO]: [Player174: Set own game mode to Creative Mode]
-[21:21:08] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[21:21:17] [Server thread/INFO]: Saving and pausing game...
-[21:21:17] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[21:21:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[21:21:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[21:21:18] [Server thread/INFO]: Stopping server
-[21:21:18] [Server thread/INFO]: Saving players
-[21:21:18] [Server thread/INFO]: Saving worlds
-[21:21:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[21:21:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[21:21:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[21:21:21] [Client thread/INFO]: Stopping!
+[21:30:42] [main/INFO]: Setting user: Player169
+[21:30:43] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:30:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[21:30:52] [Sound Library Loader/INFO]: Sound engine started
+[21:30:52] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:30:52] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[21:30:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[21:30:53] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:30:53] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:30:54] [Sound Library Loader/INFO]: Sound engine started
+[21:31:02] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:31:02] [Server thread/INFO]: Generating keypair
+[21:31:02] [Server thread/INFO]: Preparing start region for level 0
+[21:31:03] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:31:04] [Server thread/INFO]: Player169[local:E:860eb2bf] logged in with entity id 187 at (-43.72137295025878, 63.0, 182.18810546134353)
+[21:31:04] [Server thread/INFO]: Player169 joined the game
+[21:31:04] [Server thread/INFO]: Saving and pausing game...
+[21:31:04] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:31:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:31:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:31:06] [Server thread/INFO]: Player169 has just earned the achievement [Taking Inventory]
+[21:31:06] [Client thread/INFO]: [CHAT] Player169 has just earned the achievement [Taking Inventory]
+[21:31:20] [Server thread/INFO]: Saving and pausing game...
+[21:31:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:31:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:31:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:31:21] [Server thread/INFO]: Stopping server
+[21:31:21] [Server thread/INFO]: Saving players
+[21:31:21] [Server thread/INFO]: Saving worlds
+[21:31:21] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:31:21] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:31:21] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:31:23] [Client thread/INFO]: Stopping!

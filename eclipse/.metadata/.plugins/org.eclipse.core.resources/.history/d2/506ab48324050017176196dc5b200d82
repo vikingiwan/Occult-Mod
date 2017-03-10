@@ -1,0 +1,15 @@
+package tk.vikingcorp.occultMod;
+
+import net.minecraft.block.Block;
+import tk.vikingcorp.occultMod.assist.RegisterHelper;
+
+public class ModBlocks
+{
+	
+	public static Block occultOre = new occultModBlock.setUnlocalizedName("occultOre");
+	
+	public static void init()
+	{
+		RegisterHelper.registerBlock();
+	}
+}

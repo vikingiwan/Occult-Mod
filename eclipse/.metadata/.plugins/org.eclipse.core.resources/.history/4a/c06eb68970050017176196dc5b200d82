@@ -16,6 +16,7 @@ public class OccultArmor extends ItemArmor {
 		super(armorMaterial, renderIndex, armorType);
 		
 		this.setCreativeTab(RegisterHelper.tabOccultMod);
+		this.setMaxDamage(0)
 	}
 
 	

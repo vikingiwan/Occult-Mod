@@ -4,8 +4,6 @@ import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
-import tk.vikingcorp.occultMod.ModBlocks;
-import tk.vikingcorp.occultMod.ModItems;
 
 public class RegisterHelper
 {
@@ -19,9 +17,8 @@ public class RegisterHelper
 		GameRegistry.registerItem(item, item.getUnlocalizedName().substring(5));
 	}
 	
-	public static void registerRecipes()
+	public static void addSmeltingRecipe(ItemStack input, ItemStack output, Float xp)
 	{
-		//Smelting Recipes
-		GameRegistry.addSmelting(ModBlocks.occultOre, new ItemStack(ModItems.occultIngot), 2.0F);
+		GameRegistry.addSmelting(input, output, xp);
 	}
 }

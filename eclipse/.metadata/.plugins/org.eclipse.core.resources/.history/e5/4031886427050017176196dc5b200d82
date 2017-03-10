@@ -8,7 +8,7 @@ import tk.vikingcorp.occultMod.blocks.OccultModBlock;
 public class ModBlocks
 {
 	
-	public static Block occultOre = new OccultModBlock(Material.rock).setBlockName("occultOre").setBlockTextureName("occultmod:occultOre");
+	public static Block occultOre = new OccultModBlock(Material.rock).setBlockName("occultOre").setBlockTextureName("occultMod:occultOre");
 	
 	public static void init()
 	{

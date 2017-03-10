@@ -1,7 +1,13 @@
 package tk.vikingcorp.occultMod.armor;
 
+import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemArmor;
 import net.minecraft.item.ItemArmor.ArmorMaterial;
+import net.minecraft.item.ItemStack;
+import net.minecraft.potion.Potion;
+import net.minecraft.potion.PotionEffect;
+import net.minecraft.world.World;
+import tk.vikingcorp.occultMod.ModItems;
 import tk.vikingcorp.occultMod.assist.RegisterHelper;
 
 public class OccultArmor extends ItemArmor {
@@ -12,4 +18,22 @@ public class OccultArmor extends ItemArmor {
 		this.setCreativeTab(RegisterHelper.tabOccultMod);
 	}
 
+	
+	@Override
+	public void onArmorTick(World world, EntityPlayer player, ItemStack itemStack) {
+	    if (itemStack.getItem() == ModItems.occultCrown) {
+	        effectPlayer(player, Potion.nightVision, 0);
+	        effectPlayer(player, Potion.fireResistance, 0);
+	        if (player.getActivePotionEffect(Potion.wither) != null){
+	        	player.removePotionEffect(Potion.wither.getId());
+	        }
+	    }
+	}
+	
+	private void effectPlayer(EntityPlayer player, Potion potion, int amplifier)
+	{
+	    //Always effect for 8 seconds, then refresh
+	    if (player.getActivePotionEffect(potion) == null || player.getActivePotionEffect(potion).getDuration() <= 1)
+	        player.addPotionEffect(new PotionEffect(potion.id, 159, amplifier, true));
+	}
 }

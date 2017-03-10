@@ -13,13 +13,11 @@ public class ModItems
 	
 	//Add Items
 	public static Item occultIngot = new OccultModItem().setUnlocalizedName("occultIngot").setTextureName("occultmod:occultIngot");
-	public static Item occultRod = new OccultModItem().setUnlocalizedName("occultRod").setTextureName("occultmod:occultRod");
 	public static Item occultPickaxe = new OccultPickaxe(occultToolMaterial).setUnlocalizedName("occultPickaxe").setTextureName("occultmod:occultPickaxe");
 	
 	public static void init()
 	{
 		RegisterHelper.registerItem(occultIngot);
 		RegisterHelper.registerItem(occultPickaxe);
-		RegisterHelper.registerItem(occultRod);
 	}
 }

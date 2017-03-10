@@ -1,38 +1,31 @@
-[21:56:51] [main/INFO]: Setting user: Player975
-[21:56:52] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:57:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
-[21:57:01] [Sound Library Loader/INFO]: Sound engine started
-[21:57:02] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[21:57:02] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[21:57:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
-[21:57:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:57:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:57:03] [Sound Library Loader/INFO]: Sound engine started
-[21:57:09] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[21:57:09] [Server thread/INFO]: Generating keypair
-[21:57:09] [Server thread/INFO]: Preparing start region for level 0
-[21:57:10] [Server thread/INFO]: Changing view distance to 12, from 10
-[21:57:11] [Server thread/INFO]: Player975[local:E:f596050c] logged in with entity id 331 at (-42.77593619426149, 63.0, 183.511242574135)
-[21:57:11] [Server thread/INFO]: Player975 joined the game
-[21:57:14] [Server thread/INFO]: Player975 has just earned the achievement [Taking Inventory]
-[21:57:14] [Client thread/INFO]: [CHAT] Player975 has just earned the achievement [Taking Inventory]
-[21:57:33] [Server thread/INFO]: [Player975: Set own game mode to Survival Mode]
-[21:57:33] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[21:58:01] [Client thread/INFO]: [CHAT] There is no such item with ID occultMod:occultOre
-[21:58:10] [Server thread/INFO]: [Player975: Set own game mode to Creative Mode]
-[21:58:10] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[21:58:29] [Server thread/INFO]: [Player975: Set own game mode to Survival Mode]
-[21:58:29] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[22:00:28] [Server thread/INFO]: [Player975: Set own game mode to Creative Mode]
-[22:00:28] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[22:00:36] [Server thread/INFO]: Saving and pausing game...
-[22:00:36] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:00:36] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:00:36] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:00:36] [Server thread/INFO]: Stopping server
-[22:00:36] [Server thread/INFO]: Saving players
-[22:00:36] [Server thread/INFO]: Saving worlds
-[22:00:36] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:00:36] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:00:36] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:00:37] [Client thread/INFO]: Stopping!
+[22:13:50] [main/INFO]: Setting user: Player236
+[22:13:51] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:13:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[22:14:00] [Sound Library Loader/INFO]: Sound engine started
+[22:14:01] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[22:14:01] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[22:14:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[22:14:01] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:14:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:14:02] [Sound Library Loader/INFO]: Sound engine started
+[22:14:06] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:14:06] [Server thread/INFO]: Generating keypair
+[22:14:06] [Server thread/INFO]: Preparing start region for level 0
+[22:14:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:14:08] [Server thread/INFO]: Player236[local:E:d4d1d0e3] logged in with entity id 321 at (-41.973540874305506, 63.0, 183.90567041496917)
+[22:14:08] [Server thread/INFO]: Player236 joined the game
+[22:14:13] [Server thread/INFO]: Player236 has just earned the achievement [Taking Inventory]
+[22:14:13] [Client thread/INFO]: [CHAT] Player236 has just earned the achievement [Taking Inventory]
+[22:14:20] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[22:14:20] [Server thread/INFO]: [Player236: Set own game mode to Survival Mode]
+[22:15:03] [Server thread/INFO]: Saving and pausing game...
+[22:15:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:15:03] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:15:03] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:15:04] [Client thread/INFO]: Stopping!
+[22:15:04] [Server thread/INFO]: Stopping server
+[22:15:04] [Server thread/INFO]: Saving players
+[22:15:04] [Server thread/INFO]: Saving worlds
+[22:15:04] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:15:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:15:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End

@@ -12,6 +12,5 @@ public class OccultBlock extends Block
 		setCreativeTab(RegisterHelper.tabOccultMod);
 		this.setHardness(2.0F);
 		this.setResistance(2000.0F);
-		this.setHarvestLevel("pickaxe", 1337);
 	}
 }

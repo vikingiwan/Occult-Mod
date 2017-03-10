@@ -9,7 +9,7 @@ import tk.vikingcorp.occultMod.items.OccultPickaxe;
 public class ModItems
 {
 	//Tool Material
-	public static final Item.ToolMaterial occultToolMaterial = EnumHelper.addToolMaterial("occultToolMaterial", 1337, 1337, 10.0F, 3.0F, 30);
+	public static final Item.ToolMaterial occultToolMaterial = EnumHelper.addToolMaterial("occultToolMaterial", 5, 1337, 10.0F, 3.0F, 30);
 	
 	//Add Items
 	public static Item occultIngot = new OccultModItem().setUnlocalizedName("occultIngot").setTextureName("occultmod:occultIngot");

@@ -18,6 +18,5 @@ public class ModItems
 	public static void init()
 	{
 		RegisterHelper.registerItem(occultIngot);
-		RegisterHelper.registerItem(occultPickaxe);
 	}
 }

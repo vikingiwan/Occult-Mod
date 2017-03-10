@@ -14,5 +14,6 @@ public class OccultOre extends Block
 		this.setHardness(2.0F);
 		this.setResistance(2000.0F);
 		this.setHarvestLevel("pickaxe", 3);
+		this.setLightLevel(0.3F);
 	}
 }

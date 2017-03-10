@@ -1,6 +1,5 @@
 package tk.vikingcorp.occultMod.armor;
 
-import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemArmor;
 import net.minecraft.item.ItemArmor.ArmorMaterial;
@@ -18,12 +17,7 @@ public class OccultArmor extends ItemArmor {
 		
 		this.setCreativeTab(RegisterHelper.tabOccultMod);
 	}
-	
-	@Override
-	public String getArmorTexture(ItemStack stack, Entity entity, int slot, String type)
-	{
-		return "occultmod:textures/models/armor/occultArmor_1.png";
-	}
+
 	
 	@Override
 	public void onArmorTick(World world, EntityPlayer player, ItemStack itemStack) {

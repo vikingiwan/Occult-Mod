@@ -22,7 +22,14 @@ public class OccultArmor extends ItemArmor {
 	@Override
 	public String getArmorTexture(ItemStack stack, Entity entity, int slot, String type)
 	{
-		return "occultmod:textures/models/armor/occultArmor_1.png";
+		switch(this.armorType)
+		{
+		case 0:
+		case 1:
+		case 2:
+		case 3:
+		}
+		return null;
 	}
 	
 	@Override

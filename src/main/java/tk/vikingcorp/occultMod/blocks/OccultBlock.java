@@ -14,5 +14,6 @@ public class OccultBlock extends Block
 		this.setResistance(2000.0F);
 		this.setHarvestLevel("pickaxe", 1337);
 		this.setLightLevel(0.7F);
+		this.setStepSound(soundTypeMetal);
 	}
 }

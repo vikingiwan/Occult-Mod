@@ -1,46 +1,39 @@
-[06:15:06] [main/INFO]: Setting user: VikingDev
-[06:15:07] [Client thread/INFO]: LWJGL Version: 2.9.1
-[06:15:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
-[06:15:16] [Sound Library Loader/INFO]: Sound engine started
-[06:15:16] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[06:15:16] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[06:15:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
-[06:15:17] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[06:15:17] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[06:15:18] [Sound Library Loader/INFO]: Sound engine started
-[06:15:25] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[06:15:25] [Server thread/INFO]: Generating keypair
-[06:15:26] [Server thread/INFO]: Preparing start region for level 0
-[06:15:27] [Server thread/INFO]: Changing view distance to 12, from 10
-[06:15:27] [Server thread/INFO]: VikingDev[local:E:d5a3ac26] logged in with entity id 495 at (31.699999988079064, 66.0, 294.2359659393465)
-[06:15:27] [Server thread/INFO]: VikingDev joined the game
-[06:15:30] [Server thread/INFO]: VikingDev has just earned the achievement [Taking Inventory]
-[06:15:30] [Client thread/INFO]: [CHAT] VikingDev has just earned the achievement [Taking Inventory]
-[06:15:40] [Client thread/INFO]: [CHAT] '18000]' is not a valid number
-[06:15:42] [Server thread/INFO]: [VikingDev: Set the time to 18000]
-[06:15:42] [Client thread/INFO]: [CHAT] Set the time to 18000
-[06:15:43] [Server thread/INFO]: Saving and pausing game...
-[06:15:43] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[06:15:44] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[06:15:44] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[06:15:46] [Server thread/INFO]: Saving and pausing game...
-[06:15:46] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[06:15:46] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[06:15:46] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[06:15:52] [Server thread/INFO]: VikingDev was slain by Wither
-[06:15:53] [Client thread/INFO]: [CHAT] VikingDev was slain by Wither
-[06:15:59] [Server thread/INFO]: [VikingDev: Set own game mode to Creative Mode]
-[06:15:59] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[06:16:08] [Server thread/INFO]: [VikingDev: Set own game mode to Survival Mode]
-[06:16:08] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[06:16:49] [Server thread/INFO]: Saving and pausing game...
-[06:16:49] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[06:16:49] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[06:16:49] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[06:16:49] [Server thread/INFO]: Stopping server
-[06:16:49] [Server thread/INFO]: Saving players
-[06:16:49] [Server thread/INFO]: Saving worlds
-[06:16:49] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[06:16:49] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[06:16:49] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[06:16:52] [Client thread/INFO]: Stopping!
+[17:07:18] [main/INFO]: Setting user: VikingDev
+[17:07:19] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:07:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[17:07:28] [Sound Library Loader/INFO]: Sound engine started
+[17:07:28] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:07:28] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[17:07:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[17:07:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:07:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:07:30] [Sound Library Loader/INFO]: Sound engine started
+[17:09:16] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:09:16] [Server thread/INFO]: Generating keypair
+[17:09:16] [Server thread/INFO]: Preparing start region for level 0
+[17:09:17] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:09:18] [Server thread/INFO]: VikingDev[local:E:13853908] logged in with entity id 183 at (-34.00591336136125, 67.0, 168.30000001192093)
+[17:09:18] [Server thread/INFO]: VikingDev joined the game
+[17:09:40] [Server thread/INFO]: [VikingDev: Set own game mode to Creative Mode]
+[17:09:40] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[17:09:47] [Server thread/INFO]: [VikingDev: Set own game mode to Survival Mode]
+[17:09:47] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[17:10:29] [Server thread/INFO]: Saving and pausing game...
+[17:10:29] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:10:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:10:30] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:10:32] [Server thread/INFO]: Saving and pausing game...
+[17:10:32] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:10:33] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:10:33] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:10:33] [Server thread/INFO]: Saving and pausing game...
+[17:10:33] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:10:33] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:10:33] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:10:34] [Server thread/INFO]: Stopping server
+[17:10:34] [Server thread/INFO]: Saving players
+[17:10:34] [Server thread/INFO]: Saving worlds
+[17:10:34] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:10:34] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:10:34] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:10:35] [Client thread/INFO]: Stopping!

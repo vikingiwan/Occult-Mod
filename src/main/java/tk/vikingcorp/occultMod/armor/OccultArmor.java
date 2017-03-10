@@ -23,10 +23,11 @@ public class OccultArmor extends ItemArmor {
 	public void onArmorTick(World world, EntityPlayer player, ItemStack itemStack) {
 	    if (itemStack.getItem() == ModItems.occultCrown) {
 	        effectPlayer(player, Potion.nightVision, 0);
-	        effectPlayer(player, Potion.fireResistance, 0);
+	        /*effectPlayer(player, Potion.fireResistance, 0);
 	        if (player.getActivePotionEffect(Potion.wither) != null){
 	        	player.removePotionEffect(Potion.wither.getId());
 	        }
+	        */
 	    }
 	}
 	
@@ -36,4 +37,5 @@ public class OccultArmor extends ItemArmor {
 	    if (player.getActivePotionEffect(potion) == null || player.getActivePotionEffect(potion).getDuration() <= 200)
 	        player.addPotionEffect(new PotionEffect(potion.id, 400, amplifier, true));
 	}
+	
 }

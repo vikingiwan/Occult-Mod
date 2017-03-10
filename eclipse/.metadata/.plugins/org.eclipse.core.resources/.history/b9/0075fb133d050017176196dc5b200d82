@@ -25,21 +25,6 @@ public class RegisterHelper
 	{
 		//Smelting Recipes
 		GameRegistry.addSmelting(ModBlocks.occultOre, new ItemStack(ModItems.occultIngot), 2.0F);
-		
-		//Shaped Recipes
-		GameRegistry.addRecipe(new ItemStack(ModBlocks.occultBlock), new Object[]{
-		    	"III",
-		    	"III",
-		    	"III",
-		    	'I', ModItems.occultIngot
-		    	});
-		
-		//Shapeless Recipes
-		GameRegistry.addShapelessRecipe(new ItemStack(ModItems.occultIngot, 9), new Object[]
-		{
-		    	new ItemStack(ModBlocks.occultBlock)
-		});
-		
 	}
 	
 	

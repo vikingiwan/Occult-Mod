@@ -36,10 +36,10 @@ public class RegisterHelper
 		    	});
 		
 		GameRegistry.addRecipe(new ItemStack(ModItems.occultRod), new Object[]{
-				"  I",
+				"  R",
 				" S ",
-				"I  ",
-				'I', ModItems.occultIngot,
+				"  ",
+				'R', ModItems.occultRod,
 				'S', Items.stick
 		});
 		

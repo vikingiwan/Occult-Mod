@@ -1,27 +1,27 @@
-[17:45:35] [main/INFO]: Setting user: VikingDev
-[17:45:36] [Client thread/INFO]: LWJGL Version: 2.9.1
-[17:45:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
-[17:45:45] [Sound Library Loader/INFO]: Sound engine started
-[17:45:46] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[17:45:46] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[17:45:46] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
-[17:45:46] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[17:45:46] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[17:45:47] [Sound Library Loader/INFO]: Sound engine started
-[17:46:02] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[17:46:02] [Server thread/INFO]: Generating keypair
-[17:46:02] [Server thread/INFO]: Preparing start region for level 0
-[17:46:03] [Server thread/INFO]: Changing view distance to 12, from 10
-[17:46:03] [Server thread/INFO]: VikingDev[local:E:ba0fdc56] logged in with entity id 368 at (-31.300000011920922, 67.0, 170.36162507896915)
-[17:46:03] [Server thread/INFO]: VikingDev joined the game
-[17:46:39] [Server thread/INFO]: Saving and pausing game...
-[17:46:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:46:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:46:39] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:46:40] [Server thread/INFO]: Stopping server
-[17:46:40] [Server thread/INFO]: Saving players
-[17:46:40] [Server thread/INFO]: Saving worlds
-[17:46:40] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:46:40] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:46:40] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:46:41] [Client thread/INFO]: Stopping!
+[17:55:44] [main/INFO]: Setting user: VikingDev
+[17:55:45] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:55:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[17:55:53] [Sound Library Loader/INFO]: Sound engine started
+[17:55:54] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:55:54] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[17:55:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[17:55:54] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:55:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:55:55] [Sound Library Loader/INFO]: Sound engine started
+[17:55:59] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:55:59] [Server thread/INFO]: Generating keypair
+[17:55:59] [Server thread/INFO]: Preparing start region for level 0
+[17:56:00] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:56:01] [Server thread/INFO]: VikingDev[local:E:a38f737b] logged in with entity id 335 at (-48.33516210577626, 63.0, 180.30761676289097)
+[17:56:01] [Server thread/INFO]: VikingDev joined the game
+[17:56:18] [Server thread/INFO]: Saving and pausing game...
+[17:56:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:56:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:56:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:56:19] [Server thread/INFO]: Stopping server
+[17:56:19] [Server thread/INFO]: Saving players
+[17:56:19] [Server thread/INFO]: Saving worlds
+[17:56:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:56:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:56:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:56:20] [Client thread/INFO]: Stopping!

@@ -9,11 +9,9 @@ public class ModBlocks
 {
 	
 	public static Block occultOre = new OccultModBlock(Material.rock).setBlockName("occultOre").setBlockTextureName("occultmod:occultOre");
-	public static Block occultBlock = new OccultModBlock(Material.iron).setBlockName("occultBlock").setBlockTextureName("occultBlock");
 	
 	public static void init()
 	{
 		RegisterHelper.registerBlock(occultOre);
-		RegisterHelper.registerBlock(occultBlock);
 	}
 }

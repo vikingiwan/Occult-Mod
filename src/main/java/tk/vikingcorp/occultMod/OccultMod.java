@@ -27,6 +27,7 @@ public class OccultMod
     	MinecraftForge.EVENT_BUS.register(events);
 		ModItems.init();
 		ModBlocks.init();
+		RegisterHelper.registerWorldGen();
 	}
 	
 	//INIT

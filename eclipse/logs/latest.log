@@ -1,27 +1,45 @@
-[17:55:44] [main/INFO]: Setting user: VikingDev
-[17:55:45] [Client thread/INFO]: LWJGL Version: 2.9.1
-[17:55:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
-[17:55:53] [Sound Library Loader/INFO]: Sound engine started
-[17:55:54] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[17:55:54] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[17:55:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
-[17:55:54] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[17:55:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[17:55:55] [Sound Library Loader/INFO]: Sound engine started
-[17:55:59] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[17:55:59] [Server thread/INFO]: Generating keypair
-[17:55:59] [Server thread/INFO]: Preparing start region for level 0
-[17:56:00] [Server thread/INFO]: Changing view distance to 12, from 10
-[17:56:01] [Server thread/INFO]: VikingDev[local:E:a38f737b] logged in with entity id 335 at (-48.33516210577626, 63.0, 180.30761676289097)
-[17:56:01] [Server thread/INFO]: VikingDev joined the game
-[17:56:18] [Server thread/INFO]: Saving and pausing game...
-[17:56:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:56:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:56:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:56:19] [Server thread/INFO]: Stopping server
-[17:56:19] [Server thread/INFO]: Saving players
-[17:56:19] [Server thread/INFO]: Saving worlds
-[17:56:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:56:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:56:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:56:20] [Client thread/INFO]: Stopping!
+[18:40:50] [main/INFO]: Setting user: VikingDev
+[18:40:51] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:40:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[18:41:00] [Sound Library Loader/INFO]: Sound engine started
+[18:41:00] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[18:41:00] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[18:41:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Occult Mod
+[18:41:01] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:41:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:41:02] [Sound Library Loader/INFO]: Sound engine started
+[18:41:07] [Client thread/INFO]: Deleting level Copy of oretest
+[18:41:07] [Client thread/INFO]: Attempt 1...
+[18:41:09] [Client thread/INFO]: Deleting level oretest
+[18:41:09] [Client thread/INFO]: Attempt 1...
+[18:41:15] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:41:15] [Server thread/INFO]: Generating keypair
+[18:41:15] [Server thread/INFO]: Converting map!
+[18:41:15] [Server thread/INFO]: Scanning folders...
+[18:41:15] [Server thread/INFO]: Total conversion count is 0
+[18:41:16] [Server thread/INFO]: Preparing start region for level 0
+[18:41:17] [Server thread/INFO]: Preparing spawn area: 10%
+[18:41:18] [Server thread/INFO]: Preparing spawn area: 23%
+[18:41:19] [Server thread/INFO]: Preparing spawn area: 38%
+[18:41:20] [Server thread/INFO]: Preparing spawn area: 54%
+[18:41:21] [Server thread/INFO]: Preparing spawn area: 68%
+[18:41:22] [Server thread/INFO]: Preparing spawn area: 82%
+[18:41:23] [Server thread/INFO]: Preparing spawn area: 98%
+[18:41:23] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:41:24] [Server thread/INFO]: VikingDev[local:E:e3014fdc] logged in with entity id 164 at (-133.5, 67.0, -56.5)
+[18:41:24] [Server thread/INFO]: VikingDev joined the game
+[18:41:28] [Server thread/INFO]: [VikingDev: Set own game mode to Creative Mode]
+[18:41:28] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[18:41:28] [Server thread/INFO]: VikingDev has just earned the achievement [Taking Inventory]
+[18:41:28] [Client thread/INFO]: [CHAT] VikingDev has just earned the achievement [Taking Inventory]
+[18:42:26] [Server thread/INFO]: Saving and pausing game...
+[18:42:26] [Server thread/INFO]: Saving chunks for level 'ore'/Overworld
+[18:42:26] [Server thread/INFO]: Saving chunks for level 'ore'/Nether
+[18:42:26] [Server thread/INFO]: Saving chunks for level 'ore'/The End
+[18:42:27] [Server thread/INFO]: Stopping server
+[18:42:27] [Server thread/INFO]: Saving players
+[18:42:27] [Server thread/INFO]: Saving worlds
+[18:42:27] [Server thread/INFO]: Saving chunks for level 'ore'/Overworld
+[18:42:27] [Server thread/INFO]: Saving chunks for level 'ore'/Nether
+[18:42:27] [Server thread/INFO]: Saving chunks for level 'ore'/The End
+[18:42:28] [Client thread/INFO]: Stopping!

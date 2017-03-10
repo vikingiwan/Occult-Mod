@@ -8,6 +8,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import tk.vikingcorp.occultMod.ModBlocks;
 import tk.vikingcorp.occultMod.ModItems;
+import tk.vikingcorp.occultMod.OccultWorldGen;
 
 public class RegisterHelper
 {
@@ -59,6 +60,10 @@ public class RegisterHelper
 		
 	}
 	
+	public static void registerWorldGen()
+	{
+		GameRegistry.registerWorldGenerator(new OccultWorldGen(), 0);
+	}
 	
 	public static CreativeTabs tabOccultMod = new CreativeTabs("tabOccultMod"){
 		@Override

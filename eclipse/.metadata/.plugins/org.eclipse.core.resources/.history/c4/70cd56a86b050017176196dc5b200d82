@@ -1,0 +1,7 @@
+package tk.vikingcorp.occultMod.armor;
+
+import net.minecraft.item.ItemArmor;
+
+public class OccultArmor extends ItemArmor {
+
+}

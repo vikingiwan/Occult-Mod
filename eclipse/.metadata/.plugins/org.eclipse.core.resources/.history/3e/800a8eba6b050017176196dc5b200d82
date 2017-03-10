@@ -5,6 +5,7 @@ import net.minecraft.item.ItemArmor;
 import net.minecraftforge.common.util.EnumHelper;
 import tk.vikingcorp.occultMod.armor.OccultArmor;
 import tk.vikingcorp.occultMod.assist.RegisterHelper;
+import tk.vikingcorp.occultMod.items.OccultCrown;
 import tk.vikingcorp.occultMod.items.OccultModItem;
 import tk.vikingcorp.occultMod.items.OccultPickaxe;
 
@@ -20,13 +21,12 @@ public class ModItems
 	public static Item occultIngot = new OccultModItem().setUnlocalizedName("occultIngot").setTextureName("occultmod:occultIngot");
 	public static Item occultRod = new OccultModItem().setUnlocalizedName("occultRod").setTextureName("occultmod:occultRod");
 	public static Item occultPickaxe = new OccultPickaxe(occultToolMaterial).setUnlocalizedName("occultPickaxe").setTextureName("occultmod:occultPickaxe");
-	public static Item occultCrown = new OccultArmor(occultArmorMaterial, 0, 0).setUnlocalizedName("occultCrown").setTextureName("occultCrown");
+	public static Item occultCrown = new OccultArmor(occultArmorMaterial, 0, 0);
 	
 	public static void init()
 	{
 		RegisterHelper.registerItem(occultIngot);
 		RegisterHelper.registerItem(occultPickaxe);
 		RegisterHelper.registerItem(occultRod);
-		RegisterHelper.registerItem(occultCrown);
 	}
 }

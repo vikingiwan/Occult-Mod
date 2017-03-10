@@ -27,6 +27,5 @@ public class ModItems
 		RegisterHelper.registerItem(occultIngot);
 		RegisterHelper.registerItem(occultPickaxe);
 		RegisterHelper.registerItem(occultRod);
-		RegisterHelper.registerItem(occultCrown);
 	}
 }

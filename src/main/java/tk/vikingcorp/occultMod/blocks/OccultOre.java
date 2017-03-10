@@ -1,0 +1,17 @@
+package tk.vikingcorp.occultMod.blocks;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
+import tk.vikingcorp.occultMod.assist.RegisterHelper;
+
+public class OccultOre extends Block
+{
+	public OccultOre(Material material)
+	{
+		super(material);
+		setCreativeTab(RegisterHelper.tabOccultMod);
+		this.setHardness(2.0F);
+		this.setResistance(2000.0F);
+	}
+}

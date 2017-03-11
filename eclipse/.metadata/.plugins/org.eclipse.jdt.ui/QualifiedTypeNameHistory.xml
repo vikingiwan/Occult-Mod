@@ -15,7 +15,6 @@
 <fullyQualifiedTypeName name="net.minecraft.item.Item.ToolMaterial"/>
 <fullyQualifiedTypeName name="net.minecraftforge.common.util.EnumHelper"/>
 <fullyQualifiedTypeName name="tk.vikingcorp.occultMod.blocks.OccultOre"/>
-<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
 <fullyQualifiedTypeName name="tk.vikingcorp.occultMod.blocks.OccultBlock"/>
 <fullyQualifiedTypeName name="net.minecraft.item.ItemPickaxe"/>
 <fullyQualifiedTypeName name="net.minecraft.init.Items"/>
@@ -26,7 +25,18 @@
 <fullyQualifiedTypeName name="net.minecraft.entity.player.EntityPlayer"/>
 <fullyQualifiedTypeName name="net.minecraft.potion.Potion"/>
 <fullyQualifiedTypeName name="net.minecraft.potion.PotionEffect"/>
-<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
 <fullyQualifiedTypeName name="net.minecraft.world.World"/>
 <fullyQualifiedTypeName name="tk.vikingcorp.occultMod.ModItems"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.entity.living.LivingAttackEvent"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.EntityLivingBase"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="net.minecraft.util.DamageSource"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.Entity"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.IWorldGenerator"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="net.minecraft.world.gen.feature.WorldGenMinable"/>
+<fullyQualifiedTypeName name="tk.vikingcorp.occultMod.OccultWorldGen"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Blocks"/>
 </qualifiedTypeNameHistroy>

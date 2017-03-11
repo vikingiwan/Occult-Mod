@@ -9,7 +9,6 @@ import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.common.MinecraftForge;
-import tk.vikingcorp.occultMod.assist.LogHelper;
 import tk.vikingcorp.occultMod.assist.Reference;
 import tk.vikingcorp.occultMod.assist.RegisterHelper;
 
@@ -24,33 +23,25 @@ public class OccultMod
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event)
 	{
-		LogHelper.info("Starting Pre Initialization");
 		FMLCommonHandler.instance().bus().register(events);
     	MinecraftForge.EVENT_BUS.register(events);
-		LogHelper.info("Registering Items and blocks");
-    	ModItems.init();
+		ModItems.init();
 		ModBlocks.init();
-		LogHelper.info("Registering WorldGeneration");
 		RegisterHelper.registerWorldGen();
-		LogHelper.info("Pre Initialization complete!");
 	}
 	
 	//INIT
 	@Mod.EventHandler
 	public void Init(FMLInitializationEvent event)
 	{
-		LogHelper.info("Starting Initialization");
-		LogHelper.info("Registering recipes");
 		RegisterHelper.registerRecipes();
-		LogHelper.info("Initialization complete!");
 	}
 	
 	//POST-INIT
 	@Mod.EventHandler
 	public void postInit(FMLPostInitializationEvent event)
 	{
-		LogHelper.info("Starting Post Initialization");
-		LogHelper.info("Post Initialization complete!");
+		
 	}
 	
 	

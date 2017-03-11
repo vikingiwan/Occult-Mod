@@ -2,13 +2,13 @@
 {
   "modid": "occultmod",
   "name": "Occult Mod",
-  "description": "Harness the power of the occult to create mystical items that allow you to ascend to a god-like state!",
+  "description": "Harness the power of the occult to create mystical items that allow you to ascend to a god-like state! Special Thanks to IronToastBot for making the textures for the Crown of the Occult.",
   "version": "INDEV",
   "mcversion": "1.7.10",
   "url": "http://vikingcorp.tk",
   "updateUrl": "",
   "authorList": ["Iwan"],
-  "credits": "Java, for being a great gay guy",
+  "credits": "IronToastBot",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

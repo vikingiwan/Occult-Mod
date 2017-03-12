@@ -21,4 +21,4 @@ This is a minecraft mod for 1.7.10 that adds just a few items that will make you
 ---
 
 #Credits:
-* IronToastBot - Textures for the Crown of the Occult
+* [IronToastBot](http://irontoastbot.tumblr.com/) - Textures for the Crown of the Occult

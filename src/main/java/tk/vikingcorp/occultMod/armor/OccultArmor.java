@@ -9,6 +9,7 @@ import net.minecraft.potion.Potion;
 import net.minecraft.potion.PotionEffect;
 import net.minecraft.world.World;
 import tk.vikingcorp.occultMod.ModItems;
+import tk.vikingcorp.occultMod.assist.LogHelper;
 import tk.vikingcorp.occultMod.assist.RegisterHelper;
 
 public class OccultArmor extends ItemArmor {
@@ -27,14 +28,23 @@ public class OccultArmor extends ItemArmor {
 	
 	@Override
 	public void onArmorTick(World world, EntityPlayer player, ItemStack itemStack) {
-	    if (itemStack.getItem() == ModItems.occultCrown) {
+	    //Apply nightvision if wearing OccultCrown
+		if (itemStack.getItem() == ModItems.occultCrown) {
 	        effectPlayer(player, Potion.nightVision, 0);
-	        /*effectPlayer(player, Potion.fireResistance, 0);
-	        if (player.getActivePotionEffect(Potion.wither) != null){
-	        	player.removePotionEffect(Potion.wither.getId());
-	        }
-	        */
 	    }
+		
+		//Allow flight if wearing occultBoots
+		if (!player.capabilities.isCreativeMode){
+			
+			if (player.getEquipmentInSlot(1) != null && player.getEquipmentInSlot(1).getItem() == ModItems.occultBoots){
+				player.capabilities.allowFlying = true;
+			}
+			else{
+				player.capabilities.allowFlying = false;
+				player.capabilities.isFlying = false;
+			}
+		}
+		
 	}
 	
 	private void effectPlayer(EntityPlayer player, Potion potion, int amplifier)

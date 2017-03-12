@@ -17,10 +17,17 @@ public class ModItems
 	public static final ItemArmor.ArmorMaterial occultArmorMaterial = EnumHelper.addArmorMaterial("occultArmorMaterial", 1000000, new int[]{1000000,1000000,1000000,1000000}, 30);
 	
 	//Add Items
+	
+	//Crafting Items
 	public static Item occultIngot = new OccultModItem().setUnlocalizedName("occultIngot").setTextureName("occultmod:occultIngot");
 	public static Item occultRod = new OccultModItem().setUnlocalizedName("occultRod").setTextureName("occultmod:occultRod");
+	
+	//Tools
 	public static Item occultPickaxe = new OccultPickaxe(occultToolMaterial).setUnlocalizedName("occultPickaxe").setTextureName("occultmod:occultPickaxe");
+	
+	//Armor
 	public static Item occultCrown = new OccultArmor(occultArmorMaterial, 0, 0).setUnlocalizedName("occultCrown").setTextureName("occultmod:occultCrown");
+	public static Item occultBoots = new OccultArmor(occultArmorMaterial, 0, 3).setUnlocalizedName("occultBoots").setTextureName("occultMod:occultBoots");
 	
 	public static void init()
 	{
@@ -28,5 +35,6 @@ public class ModItems
 		RegisterHelper.registerItem(occultPickaxe);
 		RegisterHelper.registerItem(occultRod);
 		RegisterHelper.registerItem(occultCrown);
+		RegisterHelper.registerItem(occultBoots);
 	}
 }

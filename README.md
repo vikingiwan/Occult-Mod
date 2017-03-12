@@ -16,8 +16,8 @@ This is a minecraft mod for 1.7.10 that adds just a few items that will make you
 * Occultist Armor set
 * Terraforming staff of Arcane Destruction
 
----
 ###### For More information, check out the [Wiki!](https://github.com/vikingiwan/Occult-Mod/wiki)
+---
 
 #Credits:
 * IronToastBot - Textures for the Crown of the Occult

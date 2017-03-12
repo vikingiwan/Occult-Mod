@@ -11,6 +11,7 @@ This is a minecraft mod for 1.7.10 that adds just a few items that will make you
 * Mystic Rod
 * Pickaxe of the Occult
 * Crown of the Occult
+
 ## Planned Items:
 * Trinket of Arcane Movement
 * Occultist Armor set

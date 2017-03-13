@@ -50,6 +50,7 @@ public class OccultMod
 	public void postInit(FMLPostInitializationEvent event)
 	{
 		LogHelper.info("Starting Post Initialization");
+		RegisterHelper.registerAchievements();
 		LogHelper.info("Post Initialization complete!");
 	}
 	

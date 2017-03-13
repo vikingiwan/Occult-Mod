@@ -7,6 +7,9 @@ import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
+import net.minecraft.stats.Achievement;
+import net.minecraftforge.common.AchievementPage;
+import tk.vikingcorp.occultMod.Achievements;
 import tk.vikingcorp.occultMod.ModBlocks;
 import tk.vikingcorp.occultMod.ModItems;
 import tk.vikingcorp.occultMod.OccultWorldGen;
@@ -82,4 +85,9 @@ public class RegisterHelper
 			return new ItemStack(ModItems.occultIngot).getItem();
 		}
 	};
+	
+	public static void registerAchievements(){
+		AchievementPage.registerAchievementPage(new AchievementPage("Occult Achievements", new Achievement[] {Achievements.achievementBecomeGodlike}));
+		Achievements.achievementBecomeGodlike.registerStat();
+	}
 }

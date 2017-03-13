@@ -6,3 +6,6 @@ item.occultRod.name=Mystic Rod
 item.occultCrown.name=§5Arcane Crown of Immortality
 item.occultBoots.name=§5Arcane Boots of Levitation
 itemGroup.tabOccultMod=Occult Mod
+
+achievement.becomegodlike=§5Become Godlike!
+achievement.becomegodlike.desc=Donned a piece of Arcane armor.

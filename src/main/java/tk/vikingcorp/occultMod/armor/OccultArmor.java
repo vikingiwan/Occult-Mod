@@ -8,6 +8,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.potion.Potion;
 import net.minecraft.potion.PotionEffect;
 import net.minecraft.world.World;
+import tk.vikingcorp.occultMod.Achievements;
 import tk.vikingcorp.occultMod.ModItems;
 import tk.vikingcorp.occultMod.assist.LogHelper;
 import tk.vikingcorp.occultMod.assist.RegisterHelper;
@@ -45,6 +46,11 @@ public class OccultArmor extends ItemArmor {
 			}
 		}
 		
+		
+		//Achievement
+		if (itemStack.getItem() == ModItems.occultCrown || itemStack.getItem() == ModItems.occultBoots){
+			player.addStat(Achievements.achievementBecomeGodlike, 1);
+		}
 	}
 	
 	private void effectPlayer(EntityPlayer player, Potion potion, int amplifier)
